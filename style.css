@@ -1,0 +1,26 @@
+body {
+  min-height: 2000px;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #cf9a4b;
+}
+
+#About {
+  background-color: #e4cc98;
+}
+#Skills {
+  background-color: #cf9a4b;
+}
+
+#CV {
+  background-color: #cf9a4b;
+}
+
+#contact {
+  background-color: #e4cc98;
+}
+
+section {
+  padding-top: 4rem;
+}
